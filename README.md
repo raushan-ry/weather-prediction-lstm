@@ -1,4 +1,3 @@
-# weather-prediction-lstm
 # 🌦️ Weather Prediction using LSTM (Delhi Climate Dataset)
 
 ## 📌 Overview
